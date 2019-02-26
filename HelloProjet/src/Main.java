@@ -9,5 +9,6 @@ public class Main {
 		System.out.println("王五一修改了代码!");
 		System.out.println("HelloWorld修改了代码!"))
 		System.out.println("赵六修改的代码")
+		System.out.println("赵六在分支上修改的代码！")
     }
 }
