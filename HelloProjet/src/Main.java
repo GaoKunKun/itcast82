@@ -6,5 +6,6 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
 		System.out.println("HelloWorld第一次修改内容!")
+		System.out.println("乱码解决的办法是：")
     }
 }
